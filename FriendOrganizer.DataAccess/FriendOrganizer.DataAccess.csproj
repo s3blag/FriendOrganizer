@@ -43,7 +43,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FriendOrganizer.UI\FriendOrganizer.Model\FriendOrganizer.Model.csproj">
+    <ProjectReference Include="..\FriendOrganizer.Model\FriendOrganizer.Model.csproj">
       <Project>{f71c84d0-b449-42ac-a1ee-88befea0edd0}</Project>
       <Name>FriendOrganizer.Model</Name>
     </ProjectReference>

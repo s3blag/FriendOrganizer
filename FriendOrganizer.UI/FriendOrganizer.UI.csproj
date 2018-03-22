@@ -98,7 +98,7 @@
       <Project>{bcf802aa-d6ed-4c64-8404-e0af0c6cee85}</Project>
       <Name>FriendOrganizer.DataAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="FriendOrganizer.Model\FriendOrganizer.Model.csproj">
+    <ProjectReference Include="..\FriendOrganizer.Model\FriendOrganizer.Model.csproj">
       <Project>{f71c84d0-b449-42ac-a1ee-88befea0edd0}</Project>
       <Name>FriendOrganizer.Model</Name>
     </ProjectReference>
